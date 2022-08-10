@@ -1,0 +1,8 @@
+Started by user [8mha:////4EsCKpk2yLVe9q6kMCbYOLqbG6G4hSsnHl5YoOgfIX8HAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL94tKUjEQAyEJsWcAAAAA=[0msudha
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/sampletestjob
+[sampletestjob] $ /bin/sh -xe /tmp/jenkins368341051209439571.sh
++ 'echotest job executed'
+/tmp/jenkins368341051209439571.sh: line 2: echotest job executed: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

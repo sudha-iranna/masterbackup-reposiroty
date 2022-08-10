@@ -1,0 +1,22 @@
+Started by user [8mha:////4EsCKpk2yLVe9q6kMCbYOLqbG6G4hSsnHl5YoOgfIX8HAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL94tKUjEQAyEJsWcAAAAA=[0msudha
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/testjob
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/sudha-iranna/test.git
+ > git init /var/lib/jenkins/workspace/testjob # timeout=10
+Fetching upstream changes from https://github.com/sudha-iranna/test.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.31.1'
+ > git fetch --tags --force --progress -- https://github.com/sudha-iranna/test.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sudha-iranna/test.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 100c5194070683a9e8fb4c2dd2be5bac667a618b (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 100c5194070683a9e8fb4c2dd2be5bac667a618b # timeout=10
+Commit message: "Add files via upload"
+First time build. Skipping changelog.
+Finished: SUCCESS

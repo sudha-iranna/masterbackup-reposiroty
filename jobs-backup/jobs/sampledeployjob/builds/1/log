@@ -1,0 +1,8 @@
+Started by user [8mha:////4EsCKpk2yLVe9q6kMCbYOLqbG6G4hSsnHl5YoOgfIX8HAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL94tKUjEQAyEJsWcAAAAA=[0msudha
+Running as SYSTEM
+Building remotely on [8mha:////4HkXH+V6XONvw9R3/bM1WaIPJnhDrXWTcsqzEWzPIf2gAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eQ8oEN1i3MSy1IBerj2ScoAAAA=[0mcnode-slave (cnode) in workspace /home/ec2-user/workspace/sampledeployjob
+[sampledeployjob] $ /bin/sh -xe /tmp/jenkins6959010682333267288.sh
++ 'echodeploy execute'
+/tmp/jenkins6959010682333267288.sh: line 2: echodeploy execute: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

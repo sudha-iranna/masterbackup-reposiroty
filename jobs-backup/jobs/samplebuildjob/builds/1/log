@@ -1,0 +1,8 @@
+Started by user [8mha:////4EsCKpk2yLVe9q6kMCbYOLqbG6G4hSsnHl5YoOgfIX8HAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL94tKUjEQAyEJsWcAAAAA=[0msudha
+Running as SYSTEM
+Building remotely on [8mha:////4CCP4bC/R5kzP7psNuzd4W41LKOC+oBJ9Hd2XJfZ/CmPAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/eLSlIxE3bzU8jyggwHbtnjzzAAAAA==[0msudha-newnode (sudha-lable) in workspace /home/ec2-user/workspace/samplebuildjob
+[samplebuildjob] $ /bin/sh -xe /tmp/jenkins8600730601878541352.sh
++ 'echobuild job executed'
+/tmp/jenkins8600730601878541352.sh: line 2: echobuild job executed: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

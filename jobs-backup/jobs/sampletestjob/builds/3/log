@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4KxYauailMm/bFtblt2pH8LS7VmZV/045IiAhi5RVknCAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/az8JP3ixNyCnNSU1IKc/EoQHwDB5jOYygAAAA==[0msampledeployjob" build number [8mha:////4N4oPqke9DSRZ3GRsQSC5K2nzessYVGpDNhIXswOrXILAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjH9rPwk/eLE3IKc1JTUgpz8ShDfGABrhjudywAAAA==[0m3
+originally caused by:
+ Started by upstream project "[8mha:////4NBsrlUF8QQZk+p4AUcRNl2fmX6dOTCtmM+EyemBlX8mAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYR/az8JP3ixNyCnNSk0sycFBAXAKUywIPJAAAA[0msamplebuildjob" build number [8mha:////4MLvUQaUIc/7tjLO7SxhnmZ3PYmWKS5u8d0fN6b9H1EHAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBlH9rPwk/eLE3IKc1KTSzJwUENcYABESnj7KAAAA[0m3
+ originally caused by:
+  Started by user [8mha:////4EsCKpk2yLVe9q6kMCbYOLqbG6G4hSsnHl5YoOgfIX8HAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL94tKUjEQAyEJsWcAAAAA=[0msudha
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/sampletestjob
+[sampletestjob] $ /bin/sh -xe /tmp/jenkins7968340442559230649.sh
++ echo 'test job executed'
+test job executed
+Finished: SUCCESS
